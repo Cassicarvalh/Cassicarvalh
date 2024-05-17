@@ -1,7 +1,7 @@
-### Eu sou Cassielle Silva 👋
+### Eu sou Cassielle 👋
 
--  Estudando programação
--  24 anos
+-  Web Development
+-  25 anos
 -  ela/dela
 
   ##
