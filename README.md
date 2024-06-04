@@ -1,4 +1,4 @@
-### Eu sou Cassielle 👋
+### Oie, sou Cassielle 👋
 
 -  Web Development
 -  25 anos
